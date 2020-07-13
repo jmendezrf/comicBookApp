@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a sample project using react 
+with React , Router , and good practices
 
 ## Available Scripts
 
