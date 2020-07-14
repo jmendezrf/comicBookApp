@@ -1,5 +1,5 @@
 This is a sample project using React 
-with, Router , and good practices
+with Router  and good practices
 
 ## Available Scripts
 
